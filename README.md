@@ -46,7 +46,7 @@ The project includes:
     - Run the polished Python script:
 
             ```bash
-            python model1.py
+            python model.py
             ```
 
 ## Project Structure
